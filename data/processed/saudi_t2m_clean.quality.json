@@ -1,0 +1,12 @@
+{
+  "input_rows": 712250,
+  "clean_rows": 302500,
+  "invalid_physical_rows_removed": 0,
+  "outside_saudi_rows_removed": 409750,
+  "statistical_outliers_flagged_but_retained": 135,
+  "grid_cells": 550,
+  "first_month": "1981-01",
+  "last_month": "2026-10",
+  "missing_t2m_after_cleaning": 0,
+  "quality_note": "قيم T2M المتطرفة إحصائياً معلّمة ولا تُحذف تلقائياً حتى لا نمحو موجات حر حقيقية."
+}

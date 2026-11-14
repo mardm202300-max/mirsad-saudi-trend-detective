@@ -1,0 +1,12 @@
+{
+  "trend": "increasing",
+  "significant": true,
+  "p_value": 0.0,
+  "kendall_tau": 0.39042984590429847,
+  "slope_per_year": 0.03842316906797723,
+  "variable": "T2M",
+  "units": "°C",
+  "start": "1981-01",
+  "end": "2026-10",
+  "n_months": 550
+}
